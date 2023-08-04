@@ -132,3 +132,12 @@
     z-index: var(--z-fixed);
     background: transparent;
   }
+
+  /*==================NAV===================*/
+  .nav{
+    height: var(--header-height);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
