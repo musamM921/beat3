@@ -179,5 +179,12 @@
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
+
+  }
+
+  .nav__link:hover{
+    background: var(--white-color);
+    color: transparent;
+    -webkit-background-clip: text;
     
   }
