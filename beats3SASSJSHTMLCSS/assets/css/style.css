@@ -139,5 +139,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
   }
+  .nav__logo{
+    display: flex;
+    width: 1.5rem;
+  }
+  .nav__troggle{
+    font-size: 1.2rem;
+    color: var(--white-color);
+    cursor: pointer;
+
+  }
+  
