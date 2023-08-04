@@ -170,3 +170,14 @@
     align-items: center;
     row-gap: 1rem;
   }
+  .nav__link{
+    color: var(--white-color);
+    font-size: var(--h2-font-size);
+    text-transform: uppercase;
+    font-weight: var(--font-semi-bold);
+    background: var(--text-gradient);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    
+  }
